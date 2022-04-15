@@ -1,1 +1,10 @@
 # cement-groeve
+
+# bone mineral
+https://en.wikipedia.org/wiki/Bone_mineral
+
+# neuromuscular junction
+https://en.wikipedia.org/wiki/Neuromuscular_junction
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
